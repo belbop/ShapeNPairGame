@@ -1,5 +1,7 @@
 package com.example.shapenpairgame;
 
+import javafx.scene.image.Image;
+
 import java.util.Arrays;
 import java.util.List;
 
@@ -84,5 +86,18 @@ public class Tile {
      */
     public String getShapes() {
         return getValidShapes() + " " + color;
+    }
+
+    /**
+     * This method will return an Image that represents the tile
+     */
+
+    public Image getImage(){
+        String pathName = "images/" + shape + "_" + color + ".png";
+        return new Image(Tile.class.getResourceAsStream(pathName));
+    }
+
+    public Image getBackOfCard() {
+        return new Image(Tile.class.getResourceAsStream("images/z_tile_background.png"));
     }
 }

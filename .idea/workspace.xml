@@ -4,7 +4,49 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f9c5df14-5757-4ec1-9bf4-b4bd32836d93" name="Changes" comment="" />
+    <list default="true" id="f9c5df14-5757-4ec1-9bf4-b4bd32836d93" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/com/example/shapenpairgame/images/circle_blue.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/com/example/shapenpairgame/images/circle_green.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/com/example/shapenpairgame/images/circle_orange.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/com/example/shapenpairgame/images/circle_purple.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/com/example/shapenpairgame/images/circle_red.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/com/example/shapenpairgame/images/circle_yellow.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/com/example/shapenpairgame/images/diamond_blue.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/com/example/shapenpairgame/images/diamond_green.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/com/example/shapenpairgame/images/diamond_orange.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/com/example/shapenpairgame/images/diamond_purple.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/com/example/shapenpairgame/images/diamond_red.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/com/example/shapenpairgame/images/diamond_yellow.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/com/example/shapenpairgame/images/square_blue.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/com/example/shapenpairgame/images/square_green.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/com/example/shapenpairgame/images/square_orange.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/com/example/shapenpairgame/images/square_purple.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/com/example/shapenpairgame/images/square_red.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/com/example/shapenpairgame/images/square_yellow.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/com/example/shapenpairgame/images/star_blue.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/com/example/shapenpairgame/images/star_green.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/com/example/shapenpairgame/images/star_orange.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/com/example/shapenpairgame/images/star_purple.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/com/example/shapenpairgame/images/star_red.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/com/example/shapenpairgame/images/star_yellow.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/com/example/shapenpairgame/images/triangle_6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/com/example/shapenpairgame/images/triangle_blue.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/com/example/shapenpairgame/images/triangle_green.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/com/example/shapenpairgame/images/triangle_orange.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/com/example/shapenpairgame/images/triangle_red.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/com/example/shapenpairgame/images/triangle_yellow.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/com/example/shapenpairgame/images/z_tile_background.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/shapenpairgame/HelloApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/shapenpairgame/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/shapenpairgame/HelloController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/shapenpairgame/ShapeNPairController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/shapenpairgame/ShapeNPairController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/shapenpairgame/Tile.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/shapenpairgame/Tile.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/com/example/shapenpairgame/hello-view.fxml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/com/example/shapenpairgame/shapenpair-game.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/com/example/shapenpairgame/shapenpair-game.fxml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,11 +56,26 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="FxmlFile" />
-        <option value="Class" />
         <option value="CSS File" />
+        <option value="Class" />
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;belbop&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/belbop/ShapeNPairGame.git&quot;,
+    &quot;accountId&quot;: &quot;f9c673d4-0489-4198-96c7-789d943b31d6&quot;
+  }
+}</component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
       <MavenGeneralSettings>
@@ -26,11 +83,12 @@
       </MavenGeneralSettings>
     </option>
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "customColor": "",
-  "associatedIndex": 6
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 6
+}</component>
   <component name="ProjectId" id="2fZeuz92kMCTSMHNwwa0i2y8xRn" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -39,8 +97,12 @@
   "keyToString": {
     "Application.Experiment.executor": "Run",
     "Application.HelloApplication.executor": "Run",
+    "Application.Main.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/isabe/IdeaProjects/ShapeNPairGame/src/main/resources/com/example/shapenpairgame/images",
     "list.type.of.created.stylesheet": "CSS",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
@@ -50,6 +112,14 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.example.shapenpairgame" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\isabe\IdeaProjects\ShapeNPairGame\src\main\resources\com\example\shapenpairgame\images" />
+    </key>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -66,7 +136,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1714013256599</updated>
-      <workItem from="1714013257261" duration="25908000" />
+      <workItem from="1714013257261" duration="32589000" />
+      <workItem from="1714240894665" duration="21211000" />
     </task>
     <servers />
   </component>
