@@ -14,7 +14,6 @@ public class TileDeck {
 
         for (String shape : shapes) {
             for (String color : colors) {
-                //System.out.println(new Tile(shape, color));
                 tiles.add(new Tile(shape, color));
             }
         }

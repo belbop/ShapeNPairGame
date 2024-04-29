@@ -92,7 +92,7 @@ public class ShapeNPairController implements Initializable {
     private void flipTile(int tileIndex)
     {
         if(tileA == null && tileB == null)
-        flipAllCards();
+            flipAllCards();
 
         ImageView imageView = (ImageView) imagesFlowPane.getChildren().get(tileIndex);
         if(tileA == null)

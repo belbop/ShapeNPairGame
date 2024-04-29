@@ -58,35 +58,7 @@ public class Tile {
         return color + " " + shape;
     }
 
-    public String getColors()
-    {
-        switch (shape) {
-            case "square" -> {
-                return "blue";
-            }
-            case "triangle" -> {
-                return "green";
-            }
-            case "circle" -> {
-                return "red";
-            }
-            case "star" -> {
-                return "yellow";
-            }
-            case "diamond" -> {
-                return "orange";
-            }
-        }
-        return "";
-    }
 
-    /**
-     * Valid shapes for a tile are "square", "triangle", "circle", "star", "diamond"
-     * @return
-     */
-    public String getShapes() {
-        return getValidShapes() + " " + color;
-    }
 
     /**
      * This method will return an Image that represents the tile

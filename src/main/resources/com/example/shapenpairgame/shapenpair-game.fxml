@@ -13,7 +13,6 @@
 <?import javafx.scene.layout.RowConstraints?>
 <?import javafx.scene.layout.VBox?>
 
-
 <AnchorPane prefHeight="650.0" prefWidth="1000.0" stylesheets="@styles.css" xmlns="http://javafx.com/javafx/21" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.example.shapenpairgame.ShapeNPairController">
    <children>
       <VBox layoutX="202.0" layoutY="162.0" prefHeight="650.0" prefWidth="1000.0" spacing="20.0" AnchorPane.bottomAnchor="0.0" AnchorPane.leftAnchor="0.0" AnchorPane.rightAnchor="0.0" AnchorPane.topAnchor="0.0">
@@ -76,8 +75,8 @@
                <children>
                   <GridPane>
                     <columnConstraints>
-                      <ColumnConstraints hgrow="SOMETIMES" maxWidth="140.79998779296875" minWidth="10.0" prefWidth="138.4" />
-                      <ColumnConstraints hgrow="SOMETIMES" maxWidth="95.20001220703125" minWidth="10.0" prefWidth="62.400000000000006" />
+                      <ColumnConstraints hgrow="SOMETIMES" maxWidth="163.9999755859375" minWidth="10.0" prefWidth="127.9999755859375" />
+                      <ColumnConstraints hgrow="SOMETIMES" maxWidth="95.20001220703125" minWidth="10.0" prefWidth="72.8000244140625" />
                     </columnConstraints>
                     <rowConstraints>
                       <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
@@ -86,11 +85,11 @@
                      <children>
                         <Label text="Guesses:" />
                         <Label text="Correct:" GridPane.rowIndex="1" />
-                        <Label fx:id="guessesLabel" prefWidth="0.0" text="0" GridPane.columnIndex="1" />
-                        <Label fx:id="correctGuessesLabel" text="0" GridPane.columnIndex="1" GridPane.rowIndex="1" />
+                        <Label fx:id="guessesLabel" prefHeight="35.0" prefWidth="74.0" text="0" GridPane.columnIndex="1" />
+                        <Label fx:id="correctGuessesLabel" prefHeight="35.0" prefWidth="75.0" text="0" GridPane.columnIndex="1" GridPane.rowIndex="1" />
                      </children>
                   </GridPane>
-                  <Button mnemonicParsing="false" onAction="#playAgain" text="Play Again" />
+                  <Button mnemonicParsing="false" onAction="#playAgain" text="Play Again" textFill="#f216ce" />
                </children>
             </HBox>
          </children>
