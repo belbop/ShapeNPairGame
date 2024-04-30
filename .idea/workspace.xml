@@ -4,12 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f9c5df14-5757-4ec1-9bf4-b4bd32836d93" name="Changes" comment="Updated controller, game logic and layout.">
+    <list default="true" id="f9c5df14-5757-4ec1-9bf4-b4bd32836d93" name="Changes" comment="Updated .fxml file">
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/shapenpairgame/WelcomeController.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/shapenpairgame/ShapeNPairController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/shapenpairgame/ShapeNPairController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/shapenpairgame/Tile.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/shapenpairgame/Tile.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/shapenpairgame/TileDeck.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/shapenpairgame/TileDeck.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/com/example/shapenpairgame/shapenpair-game.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/com/example/shapenpairgame/shapenpair-game.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/shapenpairgame/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/shapenpairgame/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -106,7 +104,11 @@
       <workItem from="1714280145753" duration="378000" />
       <workItem from="1714320865638" duration="892000" />
       <workItem from="1714351021642" duration="3262000" />
-      <workItem from="1714361339329" duration="1168000" />
+      <workItem from="1714361339329" duration="4236000" />
+      <workItem from="1714442198861" duration="1590000" />
+      <workItem from="1714500999094" duration="581000" />
+      <workItem from="1714501661097" duration="2970000" />
+      <workItem from="1714505245742" duration="1893000" />
     </task>
     <task id="LOCAL-00001" summary="Updated controller, game logic and layout.">
       <option name="closed" value="true" />
@@ -124,7 +126,15 @@
       <option name="project" value="LOCAL" />
       <updated>1714267279080</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Updated .fxml file">
+      <option name="closed" value="true" />
+      <created>1714362542249</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1714362542249</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -143,6 +153,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Updated controller, game logic and layout." />
-    <option name="LAST_COMMIT_MESSAGE" value="Updated controller, game logic and layout." />
+    <MESSAGE value="Updated .fxml file" />
+    <option name="LAST_COMMIT_MESSAGE" value="Updated .fxml file" />
   </component>
 </project>
